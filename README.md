@@ -2,7 +2,7 @@
 # SushiFast
 Pour ce pojet nous devons crée une application web de vente de sushi avec deux scenario possible: <br>
 1. Si l’opérateur prend la commande par téléphone pour une livraison à domicile <br>
-2. Ou le serveur prend une commande pour une consommation sur place.
+2. Ou si le serveur prend une commande pour une consommation sur place.
 
 # Les attendus fonctionnels demandées.
 1. Dans un premier temp nous devons afficher la liste des plateaux de Sushi <br>
