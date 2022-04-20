@@ -1,6 +1,6 @@
 
 # SushiFast
-Pour ce pojet nous devons crée une application web de vente de sushi ou deux scenario etait possible dans un premier temp: <br>
+Pour ce pojet nous devons crée une application web de vente de sushi avec deux scenario possible: <br>
 1. Si l’opérateur prend la commande par téléphone pour une livraison à domicile <br>
 2. Ou le serveur prend une commande pour une consommation sur place.
 
